@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gita-7
-- 👀 I’m interested in ... 
+- 👀 I’m interested in ... iOS & OS X 
 - 🌱 I’m currently learning ... Swift
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... gitadonkal01@ptotonmail.com
