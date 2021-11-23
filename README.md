@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... iOS & OS X 
 - 🌱 I’m currently learning ... Swift
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... gitadonkal01@ptotonmail.com
+- 📫 How to reach me ... gitsingh480@gmail.com
 
 <!---
 gita-7/gita-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
