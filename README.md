@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @gita-7
+- 👋 Hi, I’m Gita Donkal
 - 👀 I’m interested in ... iOS & OS X 
 - 🌱 I’m currently learning ... Swift
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... gitsingh480@gmail.com
+- 💞️ I’m looking for full-time job as ... an iOS developer
+- 📫 How to reach me ... gitasingh480@gmail.com / gita_donkal01@protonmail.com
 
 <!---
 gita-7/gita-7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
