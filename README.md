@@ -4,7 +4,7 @@
 
 
 
-# I'm a Student, Developer, Youtuber, and Freelancer!!
+# I'm a Developer, Youtuber, and Freelancer!!
 
 - 👀 I’m interested in ... iOS & OS X 
 - 🌱 I’m currently learning ... Swift
